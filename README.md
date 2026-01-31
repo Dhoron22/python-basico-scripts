@@ -158,13 +158,13 @@ Implementación de **análisis de sentimientos** usando modelos de IA generativa
 
 ### Resultados del Análisis
 
-![Resultados del análisis de sentimientos](colab_resultados_analisis.png)
+![Resultados del análisis de sentimientos](colab_resumen_final.png)
 
 *Clasificación automática de 5 consultas ciudadanas reales sobre trámites gubernamentales (DNI, AFIP, digitalización)*
 
 ### Estadísticas Generadas
 
-![Resumen estadístico del análisis](colab_resumen_final.png)
+![Resumen estadístico del análisis](colab_resultados_analisis.png)
 
 **Métricas obtenidas:**
 - 📊 Total analizado: 5 consultas
@@ -225,7 +225,6 @@ Este notebook demuestra cómo la **IA puede transformar** la atención al ciudad
 
 - 🌐 GitHub: [@Dhoron22](https://github.com/Dhoron22)
 - 📧 Email: perezlautaro63@gmail.com
-- 💼 LinkedIn: [Lautaro Pérez](#) *(actualizar cuando esté disponible)*
 - 📍 Ubicación: Corrientes Capital, Argentina
 
 ### Sobre mí
