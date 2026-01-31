@@ -196,7 +196,7 @@ El notebook implementa:
 
 ### Ejecución
 
-1. **Abrir en Google Colab:** [Link al notebook](IA_Generativa_Python.ipynb)
+1. **Abrir en Google Colab:** [Link al notebook](https://colab.research.google.com/drive/1RO9_Si1kVk7tkplbZTFNlqRujk8p54qc#scrollTo=OQKpREy0wqza)
 2. **Ejecutar todas las celdas:** Runtime → Run all
 3. **Visualizar resultados:** Los análisis se muestran automáticamente
 
